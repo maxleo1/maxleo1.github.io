@@ -178,6 +178,13 @@ header p {
   padding-bottom: 150px;
 }
 
+.section-1 {
+  color: white;
+  background: url("../img/proud_member_of_spa_white.png") no-repeat center bottom 50px scroll;
+  background-color: black;
+  background-size: auto 20%;
+}
+
 .section-2 {
   color: white;
   background: url("../img/section2-bg.jpg") no-repeat center center scroll;
